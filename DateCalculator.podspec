@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "DateCalculator"
-  s.version      = "0.0.2"
+  s.version      = "0.0.1"
   s.summary      = "Upload DateCalculator to github and trying cocoapods"
   s.description  = "DateCalculator provide easily way to help you create Date object"
   s.homepage     = "https://github.com/KinGwaL/DateCalculator"
