@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author       = { "KING" => "king_lai@outlook.com" }
   s.platform     = :ios, "9.0"
-  s.source       = { :git => "https://github.com/KinGwaL/DateCalculator.git", :tag => "0.0.2" }
+  s.source       = { :git => "https://github.com/KinGwaL/DateCalculator.git", :tag => "v#{s.version}" }
   s.source_files  = "DateCalculator", "DateCalculator.{h,m}"
   s.frameworks = "UIKit", "Foundation"
   s.requires_arc = true
